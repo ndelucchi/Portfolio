@@ -1,0 +1,23 @@
+# folders
+data/
+models/
+results/
+catboost_info/
+.ipynb_checkpoints/
+
+# senstive files
+*.key
+*.pem
+*.env
+
+# file specific
+nueral_network.py
+wrapper_class_isolation_forest_model.py
+wrapper_calls_weight_model.py
+resampling methods.py
+
+# file type specific
+*.csv
+*.xls
+*.ipynb_checkpoints
+*.DS_Store
